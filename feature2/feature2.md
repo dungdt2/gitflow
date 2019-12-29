@@ -1,0 +1,1 @@
+checkout feature 2 from master, before checkout feature 3
